@@ -21,11 +21,6 @@ p {
   font-weight: 900;
 }
 
-.section-heading{
-  font-size: 3rem;
-  line-height: 1.5rem;
-}
-
 /* Containers */
 
 .container-fluid {
@@ -67,7 +62,7 @@ p {
 }
 
 #title .container-fluid{
-  padding: 3% 15% 7%;
+  padding: 3% 15% 7%
 }
 
 .title-image {
@@ -124,7 +119,7 @@ p {
 }
 
 #pricing {
-  padding: 100px;
+  padding: 7% 5%;
 }
 
 .price-text{
@@ -134,6 +129,10 @@ p {
 
 .pricing-column {
   padding: 3% 2%;
+}
+
+.section-heading{
+  font-size: 3rem;
 }
 
 #cta {
